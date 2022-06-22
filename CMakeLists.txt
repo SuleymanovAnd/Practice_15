@@ -3,4 +3,4 @@ project(Practice_15)
 
 set(CMAKE_CXX_STANDARD 14)
 
-add_executable(Practice_15 main.cpp)
+add_executable(Practice_15 main.cpp 1_task.cpp)

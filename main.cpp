@@ -5,7 +5,7 @@ void five_in_ascending_order ();
 void modulo_sort ();
 
 int main() {
-   /* std::cout << "Task 1 \n\n";
+    std::cout << "Task 1 \n\n";
     search_largest_sum ();
 
     std::cout << "\n\nTask 2 \n\n";
@@ -13,7 +13,7 @@ int main() {
 
     std::cout << "\n\nTask 3 \n\n";
      five_in_ascending_order ();
-*/
+
     std::cout << "\n\nTask 4 \n\n";
     modulo_sort ();
     return 0;

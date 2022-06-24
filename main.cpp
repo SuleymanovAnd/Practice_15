@@ -10,10 +10,10 @@ int main() {
 
     std::cout << "\n\nTask 2 \n\n";
     search_for_syllables ();
-    */
+
     std::cout << "\n\nTask 3 \n\n";
      five_in_ascending_order ();
-
+*/
     std::cout << "\n\nTask 4 \n\n";
     modulo_sort ();
     return 0;
